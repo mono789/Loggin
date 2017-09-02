@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Loggin</string>
+    <string name="loggin">Loggin</string>
+    <string name="password">Password</string>
+    <string name="email">E-mail</string>
+    <string name="masculino">Male</string>
+    <string name="femenino">Female</string>
+    <string name="fecha">Birth date</string>
+    <string name="cCine">Movies</string>
+    <string name="cCantar">Singing</string>
+    <string name="cCaminar">Walking</string>
+    <string name="cBailar">Dancing</string>
+    <string name="rpassword">Repeat Password</string>
+    <string-array name="ciudades">
+        <item>Medellín</item>
+        <item>Bogotá</item>
+        <item>Cali</item>
+        <item>Cartagena</item>
+        <item>Bucaramanga</item>
+        <item>Barranquilla</item>
+        <item>Pereira</item>
+        <item>Manizales</item>
+        <item>Ibagué</item>
+        <item>Cúcuta</item>
+        <item>Santa Marta</item>
+        <item>Montería</item>
+        <item>Armenia</item>
+        <item>Pasto</item>
+        <item>Villavicencio</item>
+        <item>Neiva</item>
+        <item>Valledupar</item>
+        <item>Tunja</item>
+        <item>Popayan</item>
+        <item>Cincelejo</item>
+        <item>Rioacha</item>
+        <item>Quibdó</item>
+        <item>Buenaventura</item>
+        <item>Florencia</item>
+        <item>Palmira</item>
+        <item>Soacha</item>
+        <item>Barrancabermeja</item>
+        <item>Envigado</item>
+        <item>Bello</item>
+        <item>Tumaco</item>
+        <item>Mocoa</item>
+        <item>Itaguí</item>
+    </string-array>
+</resources>
